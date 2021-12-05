@@ -1,0 +1,16 @@
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\1personal.exe
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\1personal.deps.json
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\1personal.runtimeconfig.json
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\1personal.runtimeconfig.dev.json
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\1personal.dll
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\ref\1personal.dll
+C:\Users\MaJe\source\repos\1personal\bin\Debug\net5.0\1personal.pdb
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.csproj.AssemblyReference.cache
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.AssemblyInfoInputs.cache
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.AssemblyInfo.cs
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.csproj.CoreCompileInputs.cache
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.dll
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\ref\1personal.dll
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.pdb
+C:\Users\MaJe\source\repos\1personal\obj\Debug\net5.0\1personal.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\2personal.exe
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\2personal.deps.json
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\2personal.runtimeconfig.json
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\2personal.runtimeconfig.dev.json
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\2personal.dll
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\ref\2personal.dll
+C:\Users\MaJe\source\repos\2personal\bin\Debug\net5.0\2personal.pdb
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.csproj.AssemblyReference.cache
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.AssemblyInfoInputs.cache
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.AssemblyInfo.cs
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.csproj.CoreCompileInputs.cache
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.dll
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\ref\2personal.dll
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.pdb
+C:\Users\MaJe\source\repos\2personal\obj\Debug\net5.0\2personal.genruntimeconfig.cache

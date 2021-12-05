@@ -1,0 +1,16 @@
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\table.exe
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\table.deps.json
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\table.runtimeconfig.json
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\table.runtimeconfig.dev.json
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\table.dll
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\ref\table.dll
+C:\Users\MaJe\source\repos\table\bin\Debug\net5.0\table.pdb
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.csproj.AssemblyReference.cache
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.AssemblyInfoInputs.cache
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.AssemblyInfo.cs
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.csproj.CoreCompileInputs.cache
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.dll
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\ref\table.dll
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.pdb
+C:\Users\MaJe\source\repos\table\obj\Debug\net5.0\table.genruntimeconfig.cache
